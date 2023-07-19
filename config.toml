@@ -1,0 +1,115 @@
+# Site settings
+baseURL = "https://example.com"
+languageCode = "en-US"
+title = "Camp Newlywed"
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+# Local preview mode
+relativeURLs = true
+uglyURLs = true
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Copyright
+copyright = "&copy;2023"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[params]
+
+  # Add noindex meta to every page (ALSO CHECK robots.txt in static folder!!)
+  noindex = true
+
+  # Metadata for search engines and social sharing
+  author = "Martin Akerman"
+  description = "Camp Newlywed is a celebration of an upcoming marriage."
+  shareImage = "images/social.jpg"
+  twitterHandle = "onepagelove"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  [params.custom.css]
+    enable = true
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/background.jpg"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      file = "videos/background.mp4"
+      # youtubeId = "dk9uNWPP7EA"
+
+  # Links
+  #
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      heading = "Planning"
+
+      [[params.links.list1.link]]
+        text = "RSVP"
+        url = "/rsvp.html"
+        new_tab = true # new tab
+
+      [[params.links.list1.link]]
+        text = "Gift Registry"
+        url = "/gift-registry.html"
+        new_tab = false # Default, open at same tab
+
+      [[params.links.list1.link]]
+        text = "Travel Plans"
+        url = "/travel-plans.html"
+
+  # Links List #2
+  [[params.links]]
+    [params.links.list2]
+      heading = "The Big Event"
+
+      [[params.links.list2.link]]
+        text = "Rehearsal Dinner"
+        url = "#"
+
+      [[params.links.list2.link]]
+        text = "Wedding Ceremony"
+        url = "#"
+
+      [[params.links.list2.link]]
+        text = "Reception"
+        url = "#"
+
+  # Links List #3
+  [[params.links]]
+    [params.links.list3]
+      heading = "The Next Chapter"
+
+      [[params.links.list3.link]]
+        text = "Photo Album"
+        url = "#"
+
+      [[params.links.list3.link]]
+        text = "Honeymoon"
+        url = "#"
+
+      [[params.links.list3.link]]
+        text = "Thanks and Acknowledgements"
+        url = "#"
+
+  # The original template is released under the Creative Commons Attribution 3.0 License.
+  # Please keep the original attribution link when using for your own project.
+  # If you'd like to use the template without the attribution, you can check out
+  # the license option via the template author's website: https://onepagelove.com/split
