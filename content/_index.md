@@ -1,7 +1,7 @@
 +++
 title = "Camp Newlywed"
-tagline = "Together. Now. Forever."
+tagline = "May 30 – June 2, 2024 <br/> Highfield-Cascade, MD"
 background = "/images/bg-couple.jpg"
 +++
 
-Donec at libero id lectus porta dapibus eu in nibh. Cras id mauris sapien. Fusce viverra [luctus urna]({{< ref "gift-registry.md" >}}) ac rutrum. Duis semper elit eu mi facilisis eleifend. Donec semper, [ipsum in]({{< ref "rsvp.md" >}}) malesuada congue, [purus sem]({{< ref "travel-plans.md" >}}) ullamcorper massa, sit amet lacinia nibh enim sed massa.
+Welcome to Camp Newlywed! Get ready to celebrate with us as Rebecca and Martin take their love from campfire tales to a lifetime of shared adventures! Your presence would mean the world to us as we embark on this unforgettable journey the only way we know how – with fun and organized activities!
