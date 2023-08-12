@@ -1,6 +1,6 @@
 +++
 title = "Camp Newlywed"
-tagline = "May 30 – June 2, 2024 <br/> Highfield-Cascade, MD"
+tagline = "May 30 – June 2 | 2024 | Cascade, Maryland"
 background = "/images/bg-couple.jpg"
 +++
 
