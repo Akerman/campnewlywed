@@ -1,5 +1,6 @@
 <div class="split-intro">
   {{ with .Title }}<h1 class="tagline">{{ . | safeHTML }}</h1>{{ end }}
   {{ with .Params.tagline }}<h2>{{ . | safeHTML }}</h2>{{ end }}
+  {{ with .Params.details }}<h1 class="tagline">{{ . | safeHTML }}</h1>{{ end }}
 </div>
 
