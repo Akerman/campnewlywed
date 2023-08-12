@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://example.com"
+baseURL = "https://campnewlywed.com"
 languageCode = "en-US"
 title = "Camp Newlywed"
 theme = "hugo-split-theme"
@@ -27,7 +27,7 @@ copyright = "&copy;2023"
   noindex = true
 
   # Metadata for search engines and social sharing
-  author = "Martin Akerman"
+  author = "Rebecca and Martin"
   description = "Camp Newlywed is a celebration of an upcoming marriage."
   shareImage = "images/social.jpg"
   twitterHandle = "onepagelove"
@@ -55,59 +55,54 @@ copyright = "&copy;2023"
       # youtubeId = "dk9uNWPP7EA"
 
   # Links
-  #
-  # Links List #1
-  [[params.links]]
-    [params.links.list1]
-      heading = "Planning"
 
-      [[params.links.list1.link]]
-        text = "RSVP"
-        url = "/rsvp.html"
-        new_tab = true # new tab
+# Links List #1 (Column 1)
+[[params.links.list1]]
+  heading = "Camp 101"
 
-      [[params.links.list1.link]]
-        text = "Gift Registry"
-        url = "/gift-registry.html"
-        new_tab = false # Default, open at same tab
+  [[params.links.list1.link]]
+    text = "Camp Louise"
+    url = "#" # Placeholder link
 
-      [[params.links.list1.link]]
-        text = "Travel Plans"
-        url = "/travel-plans.html"
+  [[params.links.list1.link]]
+    text = "Getting Here"
+    url = "#" # Placeholder link
 
-  # Links List #2
-  [[params.links]]
-    [params.links.list2]
-      heading = "The Big Event"
+  [[params.links.list1.link]]
+    text = "Accommodations"
+    url = "#" # Placeholder link
 
-      [[params.links.list2.link]]
-        text = "Rehearsal Dinner"
-        url = "#"
+# Links List #2 (Column 2)
+[[params.links.list2]]
+  heading = "The Big Event"
 
-      [[params.links.list2.link]]
-        text = "Wedding Ceremony"
-        url = "#"
+  [[params.links.list2.link]]
+    text = "Schedule of Activities"
+    url = "#" # Placeholder link
 
-      [[params.links.list2.link]]
-        text = "Reception"
-        url = "#"
+  [[params.links.list2.link]]
+    text = "Wedding Details"
+    url = "#" # Placeholder link
 
-  # Links List #3
-  [[params.links]]
-    [params.links.list3]
-      heading = "The Next Chapter"
+  [[params.links.list2.link]]
+    text = "RSVP"
+    url = "#" # Placeholder link
 
-      [[params.links.list3.link]]
-        text = "Photo Album"
-        url = "#"
+# Links List #3 (Column 3)
+[[params.links.list3]]
+  heading = "About Us"
 
-      [[params.links.list3.link]]
-        text = "Honeymoon"
-        url = "#"
+  [[params.links.list3.link]]
+    text = "Wedding Party"
+    url = "#" # Placeholder link
 
-      [[params.links.list3.link]]
-        text = "Thanks and Acknowledgements"
-        url = "#"
+  [[params.links.list3.link]]
+    text = "The Daisies"
+    url = "#" # Placeholder link
+
+  [[params.links.list3.link]]
+    text = "Registry"
+    url = "#" # Placeholder link
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
