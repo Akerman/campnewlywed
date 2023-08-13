@@ -167,20 +167,20 @@ body.page-template-page-fullsingle-split {
 //-------------------------------------------------------------------------------
 
 .split-bio {
-  padding: 40px 0 20px 0;
-  font-family: 'Lora', serif;
+  padding: 20px 0 10px 0;
+  font-family: 'Quicksand', serif;
 
   @media (max-width: $bp-smallish ) {
-    padding: 30px 0 10px 0;
+    padding: 20px 0 10px 0;
   }
 
   @media (max-width: $bp-tablet ) {
-    padding: 20px 0 0 0;
+    padding: 15px 0 0 0;
   }
 
   p {
     color: $color-text;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     line-height: inherit;
   }
 
