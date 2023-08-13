@@ -1,7 +1,7 @@
 +++
 title = "Camp Newlywed"
 tagline = "Rebecca + Martin"
-background = "/images/bg-couple.jpg"
+background = "/images/rebecca+martin.jpg"
 details = "May 30 – June 2, 2024</br>Highfield-Cascade, MD"
 +++
 
