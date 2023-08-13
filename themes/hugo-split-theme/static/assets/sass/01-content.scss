@@ -2,20 +2,21 @@
 // Google Font Import
 //-------------------------------------------------------------------------------
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600');
-@import url('https://fonts.googleapis.com/css?family=Lora');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap')
 
 //-------------------------------------------------------------------------------
 // Variables
 //-------------------------------------------------------------------------------
 
 // Colors
-$color-background : #061C30;
-$color-text       : #848d96;
-$color-link       : #848d96;
-$color-link-hover : #CA486d;
-$color-maverick   : #47bec7;
-$color-tagline    : #CCCCCC;
+$color-background : #AA16C;   // New background color
+$color-text       : #D3D3D3; // New main text color
+$color-link       : #ECBA99; // New link color
+$color-link-hover : #CA486d; // This remains unchanged
+$color-maverick   : #47bec7; // This remains unchanged
+$color-tagline    : #CCCCCC; // This remains unchanged
+$header-color     : #8D9DB2; // New header color
+$sub-header-color : #A18FC1; // New sub-header color
 
 // Breakpoints
 $bp-smallish      : 1200px;
@@ -44,7 +45,7 @@ html {
 
 body.page-template-page-fullsingle-split {
   background-color: $color-background;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-weight: 400;
   font-size: 21px;
   line-height: 33px;
@@ -152,7 +153,7 @@ body.page-template-page-fullsingle-split {
     line-height: 16px;
     margin-bottom: 40px;
     letter-spacing: 0.4px;
-    color: $color-maverick;
+    color: $header-color;
   }
 
   .tagline {
