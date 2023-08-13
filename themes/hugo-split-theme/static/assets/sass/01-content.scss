@@ -2,14 +2,14 @@
 // Google Font Import
 //-------------------------------------------------------------------------------
 
-@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 
 //-------------------------------------------------------------------------------
 // Variables
 //-------------------------------------------------------------------------------
 
 // Colors
-$color-background : #AA16C;   // New background color
+$color-background : #7AA16C;   // New background color
 $color-text       : #D3D3D3; // New main text color
 $color-link       : #ECBA99; // New link color
 $color-link-hover : #CA486d; // This remains unchanged
@@ -168,7 +168,7 @@ body.page-template-page-fullsingle-split {
 
 .split-bio {
   padding: 20px 0 10px 0;
-  font-family: 'Quicksand', serif;
+  font-family: 'Quicksand', sans-serif;
 
   @media (max-width: $bp-smallish ) {
     padding: 20px 0 10px 0;
