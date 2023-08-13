@@ -3,8 +3,8 @@ title = "Camp Newlywed"
 tagline = "Camp Louise, Cascade, MD"
 background = "/images/emily.jpg"
 details = "Camp Louise</br>24959 Pen Mar Rd, Highfield-Cascade, MD 21719"
-cta.link = "http://www.airylouise.org"
-cta.text = Visit the Camp Louise Website
+link = "http://www.airylouise.org"
+text = Visit the Camp Louise Website
 +++
 Set against the backdrop of the picturesque Catoctin Mountains and nestled beside the serene Hashawha Lake, Camp Louise boasts a sprawling landscape that invites exploration and wonder, and stands as a haven of adventure, camaraderie, and cherished memories.
 
