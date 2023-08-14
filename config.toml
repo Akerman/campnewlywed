@@ -68,7 +68,7 @@ copyright = "&copy;2023"
 
   [[params.links.list1.link]]
     text = "Accommodations"
-    url = "accomodations" # Placeholder link
+    url = "accommodations" # Placeholder link
 
 # Links List #2 (Column 2)
 [[params.links.list2]]
