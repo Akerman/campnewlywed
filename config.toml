@@ -62,15 +62,15 @@ copyright = "&copy;2023"
 
   [[params.links.list1.link]]
     text = "Camp Louise"
-    url = "#" # Placeholder link
+    url = "camp-louise" # Placeholder link
 
   [[params.links.list1.link]]
     text = "Getting Here"
-    url = "#" # Placeholder link
+    url = "directions" # Placeholder link
 
   [[params.links.list1.link]]
     text = "Accommodations"
-    url = "#" # Placeholder link
+    url = "accomodations" # Placeholder link
 
 # Links List #2 (Column 2)
 [[params.links.list2]]
@@ -78,15 +78,15 @@ copyright = "&copy;2023"
 
   [[params.links.list2.link]]
     text = "Schedule of Activities"
-    url = "#" # Placeholder link
+    url = "schedule" # Placeholder link
 
   [[params.links.list2.link]]
     text = "Wedding Details"
-    url = "#" # Placeholder link
+    url = "details" # Placeholder link
 
   [[params.links.list2.link]]
     text = "RSVP"
-    url = "#" # Placeholder link
+    url = "rsvp" # Placeholder link
 
 # Links List #3 (Column 3)
 [[params.links.list3]]
@@ -94,15 +94,15 @@ copyright = "&copy;2023"
 
   [[params.links.list3.link]]
     text = "Wedding Party"
-    url = "#" # Placeholder link
+    url = "wedding-party" # Placeholder link
 
   [[params.links.list3.link]]
     text = "The Daisies"
-    url = "#" # Placeholder link
+    url = "the-daisies" # Placeholder link
 
   [[params.links.list3.link]]
     text = "Registry"
-    url = "#" # Placeholder link
+    url = "registry" # Placeholder link
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
