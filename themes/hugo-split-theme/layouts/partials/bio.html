@@ -1,3 +1,4 @@
 <div class="split-bio">
   {{ .Content }}
+  {{ with .Params.cta }}<a href="{{ .link }}" class="button">{{ .text }}</a>{{ end }}
 </div>
