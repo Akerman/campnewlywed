@@ -111,13 +111,13 @@ html {
 }
 
 body.page-template-page-fullsingle-split {
-  background-color: #061C30;
+  background-color: #7AA16C;
   font-family: "Quicksand", sans-serif;
   font-weight: 400;
   font-size: 21px;
   line-height: 33px;
   letter-spacing: -0.2px;
-  color: #848d96;
+  color: #000000;
   animation: fadein 2s;
 }
 body.page-template-page-fullsingle-split p {
