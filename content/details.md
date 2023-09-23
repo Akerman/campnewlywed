@@ -3,4 +3,5 @@ title = "Wedding Details"
 background = "/images/camp-louise.jpg" 
 +++
 
-Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.
+Welcome to the Wedding Details section, your go-to hub for all the ins and outs of our wedding celebration! Here, you'll discover everything you need to know about the schedule, attire suggestions, and the unique touches that will make our day truly exceptional. We've curated this space to ensure you're well-prepared to dive into the festivities, share in our joy, and create wonderful memories. 
+
