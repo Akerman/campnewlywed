@@ -64,7 +64,7 @@ copyright = "&copy;2023"
 
   [[params.links.list1.link]]
     text = "Getting Here"
-    url = "directions" # Placeholder link
+    url = "getting-here" # Placeholder link
 
   [[params.links.list1.link]]
     text = "Lodging"
