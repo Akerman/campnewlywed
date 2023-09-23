@@ -63,6 +63,14 @@ img.alignright {
 img.alignleft {
   float: left;
 }
+
+img.alignleft-half {
+  float: left;
+  width: 50%; /* Set the image width to 50% of its parent container */
+  height: auto; /* Maintain the image's aspect ratio */
+  margin-right: 10px; /* Optional: Add some spacing between the image and surrounding content */
+}
+
 img.aligncenter {
   clear: both;
   display: block;
