@@ -29,6 +29,10 @@ body {
   line-height: 1;
 }
 
+u, ul {
+list-style: none;
+}
+
 blockquote, q {
   quotes: none;
 }
