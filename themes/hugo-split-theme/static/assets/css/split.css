@@ -114,7 +114,7 @@ body.page-template-page-fullsingle-split {
   animation: fadein 2s;
 }
 body.page-template-page-fullsingle-split p {
-  color: #D3D3D3;
+  color: #FFFFFF;
 }
 
 .fs-split {
@@ -183,10 +183,10 @@ body.page-template-page-fullsingle-split p {
   line-height: 16px;
   margin-bottom: 40px;
   letter-spacing: 0.4px;
-  color: #6C5496;
+  color: #60748E;
 }
 .split-intro .tagline {
-  color: #6C5496;
+  color: #60748E;
 }
 
 .split-bio {
@@ -204,7 +204,7 @@ body.page-template-page-fullsingle-split p {
   }
 }
 .split-bio p {
-  color: #D3D3D3;
+  color: #FFFFFF;
   margin-bottom: 20px;
   line-height: inherit;
 }
@@ -333,7 +333,7 @@ body.page-template-page-fullsingle-split p {
   font-size: 16px;
   line-height: 10px;
   margin-bottom: 31px;
-  color: #D3D3D3;
+  color: #60748E;
   letter-spacing: 2px;
   opacity: 0.5;
 }
@@ -343,7 +343,7 @@ body.page-template-page-fullsingle-split p {
   margin-bottom: 12px;
 }
 .split-lists .split-list ul li a {
-  color: #D3D3D3;
+  color: #FFFFFF;
   transition-duration: 0.5s;
 }
 .split-lists .split-list ul li a:hover {
