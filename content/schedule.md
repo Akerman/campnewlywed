@@ -1,5 +1,5 @@
 +++ 
-title = "Schedule of Activities" 
+title = "Schedule of Events" 
 background = "/images/camp-louise.jpg" 
 +++
 
