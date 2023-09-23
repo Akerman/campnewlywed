@@ -1,5 +1,6 @@
 +++ 
-title = "Wedding Party" 
+title = "Camp Newlywed" 
+tagline = "Wedding Party" 
 background = "/images/camp-louise.jpg"
 +++
 
