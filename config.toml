@@ -67,15 +67,15 @@ copyright = "&copy;2023"
     url = "directions" # Placeholder link
 
   [[params.links.list1.link]]
-    text = "Accommodations"
-    url = "accommodations" # Placeholder link
+    text = "Lodging"
+    url = "lodging" # Placeholder link
 
 # Links List #2 (Column 2)
 [[params.links.list2]]
   heading = "The Big Event"
 
   [[params.links.list2.link]]
-    text = "Schedule of Activities"
+    text = "Schedule of Events"
     url = "schedule" # Placeholder link
 
   [[params.links.list2.link]]
