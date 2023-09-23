@@ -171,21 +171,22 @@ body.page-template-page-fullsingle-split p {
 }
 
 .split-intro {
-  font-weight: 600;
+  font-weight: 1000;
   font-size: 64px;
   line-height: 80px;
   letter-spacing: -2px;
 }
 .split-intro h1 {
-  font-weight: 400;
+  font-weight: 1000;
   text-transform: uppercase;
   font-size: 16px;
-  line-height: 16px;
-  margin-bottom: 40px;
+  line-height: 10px;
+  margin-bottom: 15px;
   letter-spacing: 0.4px;
   color: #60748E;
 }
 .split-intro .tagline {
+  font-weight: 1000;
   color: #60748E;
 }
 
