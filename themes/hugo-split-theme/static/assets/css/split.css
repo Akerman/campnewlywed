@@ -110,11 +110,11 @@ body.page-template-page-fullsingle-split {
   font-size: 21px;
   line-height: 33px;
   letter-spacing: -0.2px;
-  color: #D3D3D3;
+  color: #60748E;
   animation: fadein 2s;
 }
 body.page-template-page-fullsingle-split p {
-  color: #60748E;
+  color: #D3D3D3;
 }
 
 .fs-split {
