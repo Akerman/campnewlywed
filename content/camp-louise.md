@@ -12,8 +12,10 @@ This camp holds a special place in our hearts and will be the backdrop for our u
 
 Camp Louise becomes Camp Newlywed – where the magic of the outdoors meets the magic of love.
 
-Camp Louise
-24959 Pen Mar Rd, Highfield-Cascade, MD 21719
+**Camp Louise**    
+24959 Pen Mar Rd.    
+Highfield-Cascade, MD 21719   
+
 [www.airylouise.org](http://www.airylouise.org)
 
-<i>Camp map and packing list coming soon.</i>
+*Camp map and packing list coming soon.*
