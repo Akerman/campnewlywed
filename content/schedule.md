@@ -3,4 +3,7 @@ title = "Schedule of Activities"
 background = "/images/camp-louise.jpg" 
 +++
 
-Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.
+Get ready to embark on an unforgettable journey filled with laughter, joy, and a touch of adventure! Our wedding is not just a celebration of love, but also a celebration of togetherness, reconnecting, and making memories. We have curated a schedule of activities that captures the spirit of camp life, ensuring that every moment of our special weekend is brimming with fun and excitement. This is your chance to relive the magic of camp while rejoicing in our love story. So, grab your sneakers and your enthusiasm as we dive into a schedule packed with camaraderie, competition, and the shared experiences that will make this camp wedding truly one for the books!
+
+[camp schedule]
+
