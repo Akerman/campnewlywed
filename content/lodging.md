@@ -1,5 +1,5 @@
 +++ 
-title = "Accomodations" 
+title = "Lodging" 
 background = "/images/camp-louise.jpg" 
 +++
 
