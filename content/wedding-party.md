@@ -8,24 +8,24 @@ We are fortunate to be surrounded by a remarkable group of individuals who have 
 
 From childhood companions to lifelong confidantes, each member of our wedding party has played an integral role in shaping who we are today. Their unwavering support, laughter, and shared moments have added color and depth to our lives, and we are thrilled to have them join us as we take our next steps together.
 
-Maid of Honor: Sara Prescott
-Matron of Honor: Sarah Duckworth
-Bridesmaid: Kristin Avery
-Bridesmaid: Lorena Buzzell
-Bridesmaid: Blair Hamel
-Bridesmaid: Allison Parks
-Bridesmaid: Padget Ralston
-Junior Bridesmaid: Emily Akerman
+&#128087; Maid of Honor: Sara Prescott  
+&#128087; Matron of Honor: Sarah Duckworth  
+&#128087; Bridesmaid: Kristin Avery  
+&#128087; Bridesmaid: Lorena Buzzell  
+&#128087; Bridesmaid: Blair Hamel  
+&#128087; Bridesmaid: Allison Parks  
+&#128087; Bridesmaid: Padget Ralston  
+&#128087; Junior Bridesmaid: Emily Akerman  
 
-Best Man: Matias Olman
-Groomsman: 
-Groomsman:
-Groomsman:
+&#128374;&#65039; Best Man: Matias Olman  
+&#128374;&#65039; Groomsman: Ryan Buzzell   
+&#128374;&#65039; Groomsman: Boris Kudryavsky   
+&#128374;&#65039; Groomsman: Will Ralston  
 
-Flower Girl: Larsen Ralston
-Flower Girl: Nell Ralston
-Flower Girl: Harper Buzzell
-Flower Girl: Madelyn Buzzell
+&#127804; Flower Girl: Larsen Ralston  
+&#127804; Flower Girl: Nell Ralston  
+&#127804; Flower Girl: Harper Buzzell  
+&#127804; Flower Girl: Madelyn Buzzell  
 
-Officiant: Amy Herbst
+&#128195; Officiant: Amy Herbst
 
