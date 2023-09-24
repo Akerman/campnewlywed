@@ -112,10 +112,13 @@ body {
 body,
 p,
 a{
+  text-decoration: none;
+  border: none;
+  border-style: none;
+  box-shadow: none;
   color: #FFFFFF;
 }
 
-a,
 a:hover {
   text-decoration: none;
   border: none;
