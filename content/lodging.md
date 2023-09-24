@@ -14,8 +14,8 @@ Cost per person is $100/per night which includes lodging, linens, and all non-we
 **Nearby Hotels**
 For those wishing to stay in more traditional hotel accommodations, the following hotels are located near Camp Louise in Pennsylvania and Maryland. 
 
-**&#127976; [Cobblestone Hotel & Suites](https://www.staycobblestone.com/pa/waynesboro/) in Waynesboro, PA (10-minute drive to Camp Louise) – Average price $140 - $160 per night
-**&#127976; [Liberty Mountain Resort](https://www.libertymountainresort.com/) in Fairfield, PA (15-minute drive to Camp Louise) – Average price $230 - $300 per night
-**&#127976; [Fairfield Inn & Suites by Marriott](https://www.marriott.com/en-us/hotels/hgrfi-fairfield-inn-and-suites-hagerstown/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0) in Hagerstown, MD (25-minute drive to Camp Louise) – Average price $130 - $170 per night
+**&#127976; [Cobblestone Hotel & Suites](https://www.staycobblestone.com/pa/waynesboro/)** in Waynesboro, PA (10-minute drive to Camp Louise) – Average price $140 - $160 per night  
+**&#127976; [Liberty Mountain Resort](https://www.libertymountainresort.com/)** in Fairfield, PA (15-minute drive to Camp Louise) – Average price $230 - $300 per night  
+**&#127976; [Fairfield Inn & Suites by Marriott](https://www.marriott.com/en-us/hotels/hgrfi-fairfield-inn-and-suites-hagerstown/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0)** in Hagerstown, MD (25-minute drive to Camp Louise) – Average price $130 - $170 per night
 
 
