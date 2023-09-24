@@ -1,5 +1,6 @@
 +++ 
-title = "The Daisies" 
+title = "Camp Newlywed" 
+tagline = "The Daisies" 
 background = "/images/daisies.jpg"
 +++
 
