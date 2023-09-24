@@ -226,6 +226,14 @@ body.page-template-page-fullsingle-split p {
   letter-spacing: 0.4px;
   color: #60748E;
 }
+.split-intro h2 {
+  font-weight: 1000;
+  font-size: 16px;
+  line-height: 10px;
+  margin-bottom: 15px;
+  letter-spacing: 0.4px;
+  color: #60748E;
+}
 .split-intro .tagline {
   font-weight: 1000;
   color: #60748E;
