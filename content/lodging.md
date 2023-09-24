@@ -9,7 +9,7 @@ For the ultimate summer camp experience, we invite you to join us in staying at 
 **Camp Louise Accommodations**  
 Guests will stay in private cabins that sleep between 1 and 4 people and offer a private bathroom (shower, toilet, and sink), closets and linens.  
 
-Cost per person is $100/per night which includes lodging, linens, and all non-wedding meals (starting with dinner on your night of arrival and ending with breakfast on your date of departure – for those staying all three nights, that includes dinner Thursday, breakfast, lunch and dinner Friday, breakfast and lunch Saturday, and breakfast Sunday). Children 5 and under are free of charge. 
+Cost per person is *$100/per night* which includes lodging, linens, and all non-wedding meals (starting with dinner on your night of arrival and ending with breakfast on your date of departure – for those staying all three nights, that includes dinner Thursday, breakfast, lunch and dinner Friday, breakfast and lunch Saturday, and breakfast Sunday). Children 5 and under are free of charge. 
 
 **Nearby Hotels**
 For those wishing to stay in more traditional hotel accommodations, the following hotels are located near Camp Louise in Pennsylvania and Maryland. 
