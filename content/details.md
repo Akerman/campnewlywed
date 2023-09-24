@@ -13,7 +13,7 @@ Welcome to the Wedding Details section, your go-to hub for all the ins and outs 
 &#9200; 10:30 PM: After Party at the Gym  
 
 **Attire Suggestions**  
-&#9901; For the wedding, we invite you to embrace semi-formal or cocktail attire, adding a touch of sophistication to our camp celebration.
+&#9901; For the wedding, we invite you to embrace semi-formal or cocktail attire, adding a touch of sophistication to our camp celebration.  
 &#127881; The theme of the after party is NEON, so make sure to bring a fun outfit or accessories to keep the party going into the evening.
 
 **Other Important Details**  
