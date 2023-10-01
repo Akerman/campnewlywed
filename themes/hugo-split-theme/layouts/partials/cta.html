@@ -1,2 +1,2 @@
 {{ with .Params.details }}<h1 class="tagline">{{ . | safeHTML }}</h1>{{ end }}
-{{ with .Params.cta }}<a href="{{ .link }}" class="button">{{ .text }}</a>{{ end }}
+{{ with .Params.cta }}<a href="{{ .link }}" class="button" target="_new">{{ .text }}</a>{{ end }}
