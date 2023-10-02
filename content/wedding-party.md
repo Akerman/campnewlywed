@@ -22,7 +22,7 @@ From childhood companions to lifelong confidantes, each member of our wedding pa
 &#10026; Groomsman: Boris Kudryavsky   
 &#10026; Groomsman: Will Ralston  
 
-&#127990; Flower Girl: Larsen Ralston  
+&#124; Flower Girl: Larsen Ralston  
 &#127990; Flower Girl: Nell Ralston  
 &#127990; Flower Girl: Harper Buzzell  
 &#127990; Flower Girl: Madelyn Buzzell  
