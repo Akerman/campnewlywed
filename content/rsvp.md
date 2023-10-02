@@ -1,5 +1,6 @@
 +++
-title = "RSVP"
+title = "Camp Newlywed"
+tagline = "RSVP"
 background = "/images/lake-picture.jpg"
 +++
 
