@@ -9,4 +9,4 @@ We are delighted to have you as a part of our wedding celebration! Your presence
 Your prompt RSVP will greatly assist us in finalizing the arrangements and making this day truly unforgettable. Please take a moment to let us know if you'll be joining in on the fun. We look forward to celebrating together!
 
 
-<a href="#" class="button">Register Here</a>
+<a href="https://www.campnewlywed.com/register" class="button" target="_new">Register Here</a>
