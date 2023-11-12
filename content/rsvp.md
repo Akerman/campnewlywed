@@ -1,7 +1,7 @@
 +++
 title = "Camp Newlywed"
 tagline = "RSVP"
-background = "/images/lake-picture.jpg"
+background = "/images/rsvp-pic.jpeg"
 +++
 
 We are delighted to have you as a part of our wedding celebration! Your presence means the world to us, and we can't wait to share this joyous occasion with you. To help us ensure that everything is perfectly prepared for your enjoyment, we ***kindly request your response by April 19, 2024.*** 
