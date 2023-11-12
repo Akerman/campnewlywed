@@ -23,3 +23,7 @@ hr.single-divider {
     margin-bottom: 40px;
     border-color: #d3d3d3; /* Secondary color */
 }
+img { 
+    max-width: 100%; 
+    height: auto; 
+}
