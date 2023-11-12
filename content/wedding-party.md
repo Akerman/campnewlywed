@@ -1,7 +1,7 @@
 +++ 
 title = "Camp Newlywed" 
 tagline = "Wedding Party" 
-background = "/images/camp-louise.jpg"
+background = "/images/wedding-party-pic.jpeg"
 +++
 
 We are fortunate to be surrounded by a remarkable group of individuals who have stood by our side through thick and thin. These incredible friends and family members make up our cherished wedding party, and they hold a special place in our hearts.
