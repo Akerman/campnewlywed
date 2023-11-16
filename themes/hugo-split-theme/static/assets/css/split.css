@@ -160,6 +160,17 @@ body.page-template-page-fullsingle-split {
 body.page-template-page-fullsingle-split p {
   color: #FFFFFF;
 }
+.responsive-iframe {
+  width: 100%;
+  height: 500px; /* or any other height you prefer */
+  border: none;
+}
+
+@media (max-width: 768px) {
+  .responsive-iframe {
+    height: 300px; /* Adjust height for smaller devices */
+  }
+}
 
 .fs-split {
   width: 100vw;
