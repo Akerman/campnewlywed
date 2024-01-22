@@ -1,5 +1,5 @@
 +++
 title = "Camp Newlywed"
-tagline = "RSVP"
-background = "/Camp"
+tagline = "MAP"
+background = "map.png"
 +++
