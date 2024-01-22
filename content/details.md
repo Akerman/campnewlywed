@@ -17,6 +17,6 @@ Welcome to the Wedding Details section, your go-to hub for all the ins and outs 
 &#11045; The theme of the after party is NEON, so make sure to bring a fun outfit or accessories to keep the party going into the evening.
 
 **Other Important Details**  
-&#11045; Get acquainted with the camp with a <a href="https://www.campnewlywed.com/map.png" class="button" target="_new">Camp Louise Map</a> and see the various venues for our Wedding Day.  
+&#11045; Get acquainted with the camp with a [Camp Louise Map](https://www.campnewlywed.com/map.png) and see the various venues for our Wedding Day.  
 &#11045; Get prepared for the wedding and whole weekend with a Camp Newlywed Packing List *(coming soon)*
 
