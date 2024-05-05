@@ -10,7 +10,7 @@ Welcome to the Wedding Details section, your go-to hub for all the ins and outs 
 &#11045; 5:30 PM: Ceremony at the Library  
 &#11045; 6:00 PM: Cocktail Hour at Barnett  
 &#11045; 7:00 PM: Dinner, Reception and Dancing at the Social Hall  
-&#11045; 10:30 PM: After Party at the Gym  
+&#11045; 10:00 PM: After Party at the Gym  
 
 **Attire Suggestions**  
 &#11045; For the wedding, we invite you to embrace semi-formal or cocktail attire, adding a touch of sophistication to our camp celebration.  
