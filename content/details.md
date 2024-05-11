@@ -18,5 +18,5 @@ Welcome to the Wedding Details section, your go-to hub for all the ins and outs 
 
 **Other Important Details**  
 &#11045; Get acquainted with the camp with a [Camp Louise Map](https://www.campnewlywed.com/map.png) and see the various venues for our Wedding Day.  
-&#11045; Get prepared for the wedding and whole weekend with a Camp Newlywed Packing List *(coming soon)*
+&#11045; Get prepared for the wedding and for the whole weekend with a [Camp Newlywed Packing List](https://www.campnewlywed.com/packing_list.pdf).
 
