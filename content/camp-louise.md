@@ -18,4 +18,5 @@ Highfield-Cascade, MD 21719
 
 <a href="https://www.airylouise.org/camp-louise-for-girls/facilities-location/" target="_blank">Camp Louise</a>
 
-*Camp map and packing list coming soon.*
+&#11045; Get acquainted with the camp with a [Camp Louise Map](https://www.campnewlywed.com/map.png) and see the various venues for our Wedding Day.  
+&#11045; Get prepared for the wedding and for the whole weekend with a [Camp Newlywed Packing List](https://www.campnewlywed.com/packing_list.pdf).
